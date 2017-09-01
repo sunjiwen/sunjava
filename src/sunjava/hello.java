@@ -8,7 +8,7 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.out.println("java say hello!you all so strong");
 		Puppy p1 = new Puppy("tommy");
-		int x = 15;
+		int x = 21;
 		do {
 		p1.setAge(x);
 		p1.getAge();
